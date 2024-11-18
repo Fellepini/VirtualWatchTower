@@ -8,7 +8,8 @@ services:
     ports:
       - "3005:3005"
     volumes:
-      - https://github.com/Fellepini/VirtualWatchTower/tree/main/TLIP/virtual-watch-tower/docker/gx-compliance/certs/mkcert:/mkcert
+      - C:/Users/perlof/Repos/VirtualWatchTower/TLIP/virtual-watch-tower/docker/gx-compliance/certs/mkcert:/mkcert
+      
     restart: 'unless-stopped'
     depends_on:
       - db
