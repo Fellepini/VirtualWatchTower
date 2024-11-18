@@ -1,0 +1,17 @@
+{
+    "id": "C:/Users/perlof/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalParticipantVC.json",
+    "credentialSubject": {
+        "type": "gx:LegalParticipant",
+        "gx:legalName": "Example Per Löfboms 1",
+        "gx:legalRegistrationNumber": {
+            "id": "C:/Users/perlof/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalRegistrationNumberVC.json"
+            
+        },
+        "gx:headquarterAddress": {
+            "gx:countrySubdivisionCode": "SE-AB"
+        },
+        "gx:legalAddress": {
+            "gx:countrySubdivisionCode": "SE-AB"
+        }
+    }
+}
