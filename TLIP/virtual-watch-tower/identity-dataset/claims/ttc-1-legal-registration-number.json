@@ -1,5 +1,5 @@
 {
-    "id": "https://github.com/Fellepini/VirtualWatchTower/tree/main/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalRegistrationNumberVC.json",
+    "id": "https://fellepini.github.io/VirtualWatchTower/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalRegistrationNumberVC.json",
     "credentialSubject": {
         "@context": [
             "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"

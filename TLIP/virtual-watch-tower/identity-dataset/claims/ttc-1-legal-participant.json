@@ -1,10 +1,10 @@
 {
-    "id": "https://github.com/Fellepini/VirtualWatchTower/tree/main/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalParticipantVC.json",
+    "id": "https://fellepini.github.io/VirtualWatchTower/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalParticipantVC.json",
     "credentialSubject": {
         "type": "gx:LegalParticipant",
         "gx:legalName": "Example Per Löfboms 1",
         "gx:legalRegistrationNumber": {
-            "id": "https://github.com/Fellepini/VirtualWatchTower/tree/main/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalRegistrationNumberVC.json"
+            "id": "https://fellepini.github.io/VirtualWatchTower/TLIP/virtual-watch-tower/docs/public/credentials/ttc-1/legalRegistrationNumberVC.json"
             
         },
         "gx:headquarterAddress": {
