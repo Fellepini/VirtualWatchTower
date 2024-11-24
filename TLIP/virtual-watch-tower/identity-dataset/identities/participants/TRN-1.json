@@ -1,19 +1,19 @@
 {
-  "did": "did:iota:ebsi:0xb91d1b9d354274ba837b49a4c60f50bd85d2f215e563248c552d20d7c08aff53",
-  "privateKeyDidControl": "0xd671c7d2ace88d1c4d9fcf7929510f3c284c76f03e262255f441ee638fa7a8cb52441c755eb6f91d73a7e7f17c12ab2a114971a823584fd42ef9884d91970322",
+  "did": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+  "privateKeyDidControl": "0x1bd81b2f48cf5e32f3f420cdb2040fed013d6ba07aeedde688eefc0ab87d3e54e483b40bf2abfa9a4be919d55ffb1616262ee049a87c1c8c9263f2f0de60394f",
   "privateKeyJwk": {
     "key_ops": [
       "sign"
     ],
     "ext": true,
     "crv": "Ed25519",
-    "d": "wCio3A7-NPqzwI4Fw5a6hQMw59fr1I77d4lPc3x9M9E",
-    "x": "iqCSc7PkPBY7PjXR39dOUJEgQQIynbQPDBlFU9tHbr8",
+    "d": "eNVOvGrljdkbDgpbmXusV4DuHXSC-o83qWB7EaxarfE",
+    "x": "h2gK81YcRaBt9EST-xHiUA2bLN0je7Kpvk37zK6BGgQ",
     "kty": "OKP",
-    "kid": "L-sMHNHyn_64_rpEYWtHdf0iuxW3BJFynMwM7OioJis",
+    "kid": "krk5B7Mq2q-wZ3f63OPBJ5792PuLelBGpJqmmsXqUJQ",
     "alg": "EdDSA",
     "use": "sig"
   },
-  "privateKeyVerificationMethodRaw": "0xc028a8dc0efe34fab3c08e05c396ba850330e7d7ebd48efb77894f737c7d33d1", 
-  "publicKeyVerificationMethodRaw": "0x8aa09273b3e43c163b3e35d1dfd74e5091204102329db40f0c194553db476ebf"   
+  "privateKeyVerificationMethodRaw": "0x78d54ebc6ae58dd91b0e0a5b997bac5780ee1d7482fa8f37a9607b11ac5aadf1",
+  "publicKeyVerificationMethodRaw": "0x87680af3561c45a06df44493fb11e2500d9b2cdd237bb2a9be4dfbccae811a04"
 }
