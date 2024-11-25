@@ -11,7 +11,7 @@
           "dateCreated": "2024-11-22T10:35:49.842Z",
           "evidences": [
           ]
-      }
+      },
       {
         "id": "did:iota:ebsi:0xd59f5ae02592c57a08b9e880979ec524587b1b0cdb8dd7c0457febde05b1cf74",
         "type": "Participant",
@@ -24,7 +24,8 @@
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
-    }    {
+    },    
+    {
         "id": "did:iota:ebsi:0xd1a4b25a0d6f2870a886ac6af9b50ee257922ba22005e17da8efc31cb0c8ae37",
         "type": "Participant",
         "lrnType": "LEI_CODE",
@@ -36,7 +37,8 @@
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
-    }    {
+    },
+        {
         "id": "did:iota:ebsi:0xec502293411361c9793cb403ca8797184039397eb5c9dc70d2fabfb6c0aadb01",
         "type": "Participant",
         "lrnType": "LEI_CODE",
@@ -48,7 +50,8 @@
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
-    }    {
+    },
+        {
         "id": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
         "type": "Participant",
         "lrnType": "LEI_CODE",
