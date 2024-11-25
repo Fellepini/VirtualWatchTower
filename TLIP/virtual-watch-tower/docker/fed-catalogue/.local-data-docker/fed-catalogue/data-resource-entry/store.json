@@ -2,7 +2,7 @@
     {
           "id": "https://tlip.vwt.deplide.org/VWT-1",
           "type": "DataResource",
-          "producedBy": "did:iota:ebsi:0xebd9c203edcbdeff31ab4649f4e91480b31175ec03b145a67bb8efe603f2bb5c",
+          "producedBy": "did:iota:ebsi:0x74e4ac1abc064b3fea1feb08dde20220418c4abdb478738075b869100143e408",
           "copyrightOwnedBy": "did:iota:ebsi:0xebd9c203edcbdeff31ab4649f4e91480b31175ec03b145a67bb8efe603f2bb5c",
           "license": "http://licenses.example.org/tlip-node",
           "resourcePolicy": {
@@ -11,7 +11,7 @@
               "permission": [
                   {
                       "action": "use",
-                      "assigner": "did:iota:ebsi:0xebd9c203edcbdeff31ab4649f4e91480b31175ec03b145a67bb8efe603f2bb5c",
+                      "assigner": "did:iota:ebsi:0x74e4ac1abc064b3fea1feb08dde20220418c4abdb478738075b869100143e408",
                       "target": "https://tlip.vwt.deplide.org/VWT-1"
                   }
               ],

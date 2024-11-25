@@ -1,15 +1,64 @@
 [
     {
-          "id": "did:iota:ebsi:0xd078107b06e0691d602fb42e62f4e86d58dcbf2c209861b6d1f19983a0d2f14e",
+          "id": "did:iota:ebsi:0x37926b61ec59f041b607e7f5b037f812d26d983828e0b780e990a249ff5bb933",
           "type": "Participant",
           "lrnType": "LEI_CODE",
           "countryCode": "SE",
           "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
-          "legalName": "Example Virtual Watch Tower 3",
+          "legalName": "A-STAR",
           "validFrom": "2024-10-17T11:16:47.741Z",
-          "validUntil": "2025-01-15T12:16:47.735Z",
-          "dateCreated": "2024-11-21T10:35:49.842Z",
+          "validUntil": "2025-02-15T12:16:47.735Z",
+          "dateCreated": "2024-11-22T10:35:49.842Z",
           "evidences": [
           ]
       }
+      {
+        "id": "did:iota:ebsi:0xd59f5ae02592c57a08b9e880979ec524587b1b0cdb8dd7c0457febde05b1cf74",
+        "type": "Participant",
+        "lrnType": "LEI_CODE",
+        "countryCode": "SE",
+        "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
+        "legalName": "Marine Benchmark",
+        "validFrom": "2024-10-17T11:16:47.741Z",
+        "validUntil": "2025-02-15T12:16:47.735Z",
+        "dateCreated": "2024-11-22T10:35:49.842Z",
+        "evidences": [
+        ]
+    }    {
+        "id": "did:iota:ebsi:0xd1a4b25a0d6f2870a886ac6af9b50ee257922ba22005e17da8efc31cb0c8ae37",
+        "type": "Participant",
+        "lrnType": "LEI_CODE",
+        "countryCode": "SE",
+        "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
+        "legalName": "RISE",
+        "validFrom": "2024-10-17T11:16:47.741Z",
+        "validUntil": "2025-02-15T12:16:47.735Z",
+        "dateCreated": "2024-11-22T10:35:49.842Z",
+        "evidences": [
+        ]
+    }    {
+        "id": "did:iota:ebsi:0xec502293411361c9793cb403ca8797184039397eb5c9dc70d2fabfb6c0aadb01",
+        "type": "Participant",
+        "lrnType": "LEI_CODE",
+        "countryCode": "SE",
+        "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
+        "legalName": "Roambee",
+        "validFrom": "2024-10-17T11:16:47.741Z",
+        "validUntil": "2025-02-15T12:16:47.735Z",
+        "dateCreated": "2024-11-22T10:35:49.842Z",
+        "evidences": [
+        ]
+    }    {
+        "id": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+        "type": "Participant",
+        "lrnType": "LEI_CODE",
+        "countryCode": "SE",
+        "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
+        "legalName": "Transporeon",
+        "validFrom": "2024-10-17T11:16:47.741Z",
+        "validUntil": "2025-02-15T12:16:47.735Z",
+        "dateCreated": "2024-11-22T10:35:49.842Z",
+        "evidences": [
+        ]
+    }
   ]
