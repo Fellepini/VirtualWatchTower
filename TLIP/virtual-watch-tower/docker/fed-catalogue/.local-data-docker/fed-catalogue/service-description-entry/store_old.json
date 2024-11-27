@@ -1,0 +1,63 @@
+[
+    {
+      "id": "https://serviceofferings.example.org/transporeon/7891",
+      "type": "ServiceOffering",
+      "providedBy": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+      "servicePolicy": [
+          {
+              "@context": "http://www.w3.org/ns/odrl.jsonld",
+              "permission": [
+                  {
+                      "action": [
+                          "view","modify", "annotate"
+                      ],
+              "assignee": [
+                          "did:iota:ebsi:0xec502293411361c9793cb403ca8797184039397eb5c9dc70d2fabfb6c0aadb01"
+                      ],
+                      "assigner": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+              "target": {
+                          "name": "Item Details",
+                          "type": "Item"
+                      }
+                  },
+                  {
+                      "action": [
+                          "view", "modify","annotate"
+                      ],
+              "assignee": [
+                          "did:iota:ebsi:0x37926b61ec59f041b607e7f5b037f812d26d983828e0b780e990a249ff5bb933"
+                      ],
+                      "assigner": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+              "target": {
+                          "name": "Item Details",
+                          "type": "Item"
+                      }
+                  },
+                  {
+                      "action": [
+                          "view", "modify","annotate"
+                      ],
+                      "assignee": [
+                          "did:iota:ebsi:0xd59f5ae02592c57a08b9e880979ec524587b1b0cdb8dd7c0457febde05b1cf74"
+                      ],
+                      "assigner": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+              "target": {
+                          "name": "Item Details",
+                          "type": "Item"
+                      }
+                  }
+              ]
+          }
+      ],
+      "name": "Item Details",
+      "endpointURL": "https://tlip.vwt.deplide.org",
+      "validFrom": "2024-10-24T07:44:15Z",
+      "validUntil": "2025-10-24T07:44:15Z",
+      "dateCreated": "2024-10-24T08:50:29.837Z",
+      "evidences": [
+      ],
+      "aggregationOfResources": [
+      "https://tlip.vwt.deplide.org/vwt-1"
+      ]
+   }
+  ]
