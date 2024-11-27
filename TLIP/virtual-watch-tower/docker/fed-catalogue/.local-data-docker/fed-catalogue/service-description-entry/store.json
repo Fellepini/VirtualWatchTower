@@ -4,7 +4,7 @@
       "id": "https://serviceofferings.example.org/transporeon/7891",
       "type": "ServiceOffering",
       "providedBy": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
-      "servicePolicy": [
+      "servicePolicy": 
           {
               "@context": "http://www.w3.org/ns/odrl.jsonld",
               "permission": [
@@ -62,7 +62,7 @@
                 }
               ]
           }
-      ],
+      ,
       "name": "Item Details",
       "endpointURL": "https://tlip.vwt.deplide.org",
       "validFrom": "2024-10-24T07:44:15Z",
