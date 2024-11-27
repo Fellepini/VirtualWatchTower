@@ -46,7 +46,20 @@
                           "name": "Item Details",
                           "type": "Item"
                       }
-                  }
+                  },
+                  {
+                    "action": [
+                        "view", "modify","annotate"
+                    ],
+                    "assignee": [
+                        "did:iota:ebsi:0xd1a4b25a0d6f2870a886ac6af9b50ee257922ba22005e17da8efc31cb0c8ae37"
+                    ],
+                    "assigner": "did:iota:ebsi:0xcbfedce4690a6f648ebac55aed4752f6de947694cd4a97e61e57baefbd8db7a7",
+            "target": {
+                        "name": "Item Details",
+                        "type": "Item"
+                    }
+                }
               ]
           }
       ],
