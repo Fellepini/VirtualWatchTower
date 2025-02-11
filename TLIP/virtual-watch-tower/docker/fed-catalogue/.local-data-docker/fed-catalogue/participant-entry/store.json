@@ -7,7 +7,7 @@
           "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
           "legalName": "A-STAR",
           "validFrom": "2024-10-17T11:16:47.741Z",
-          "validUntil": "2025-02-15T12:16:47.735Z",
+          "validUntil": "2025-05-31T12:16:47.735Z",
           "dateCreated": "2024-11-22T10:35:49.842Z",
           "evidences": [
           ]
@@ -20,7 +20,7 @@
         "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
         "legalName": "Marine Benchmark",
         "validFrom": "2024-10-17T11:16:47.741Z",
-        "validUntil": "2025-02-15T12:16:47.735Z",
+        "validUntil": "2025-05-31T12:16:47.735Z",
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
@@ -33,7 +33,7 @@
         "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
         "legalName": "RISE",
         "validFrom": "2024-10-17T11:16:47.741Z",
-        "validUntil": "2025-02-15T12:16:47.735Z",
+        "validUntil": "2025-05-31T12:16:47.735Z",
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
@@ -46,7 +46,7 @@
         "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
         "legalName": "Roambee",
         "validFrom": "2024-10-17T11:16:47.741Z",
-        "validUntil": "2025-02-15T12:16:47.735Z",
+        "validUntil": "2025-05-31T12:16:47.735Z",
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
@@ -59,7 +59,7 @@
         "trustedIssuerId": "did:web:iotaledger.github.io:ebsi-stardust-components:public:gaia-x:web:twin:dch",
         "legalName": "Transporeon",
         "validFrom": "2024-10-17T11:16:47.741Z",
-        "validUntil": "2025-02-15T12:16:47.735Z",
+        "validUntil": "2025-05-31T12:16:47.735Z",
         "dateCreated": "2024-11-22T10:35:49.842Z",
         "evidences": [
         ]
